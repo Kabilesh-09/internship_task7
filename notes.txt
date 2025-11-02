@@ -1,0 +1,19 @@
+
+Task 7 – Browser Extension Security Report
+
+Completed steps:
+- Checked browser extensions
+- Identified suspicious ones
+- Removed unsafe extensions
+- Learned security concepts
+
+Removed:
+1. XYZ Coupon Finder
+2. Auto Search Booster
+
+Safe extensions kept:
+- Adblock Plus
+- Grammarly
+- Google Docs Offline
+
+Conclusion: Task completed and browser security improved.
