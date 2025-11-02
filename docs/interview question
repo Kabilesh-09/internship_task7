@@ -1,0 +1,33 @@
+1. How can browser extensions pose security risks?
+
+They can track your activity, steal data, inject ads, or redirect you to harmful websites.
+
+2. What permissions should raise suspicion?
+
+Permissions like “read all website data”, access to clipboard, keyboard input, downloads, or incognito mode.
+
+3. How to safely install browser extensions?
+
+Install only from official stores, check reviews, developer details, ratings, and permissions before installing.
+
+4. What is extension sandboxing?
+
+Extensions run in a restricted environment so they cannot freely access your system or sensitive files.
+
+5. Can extensions steal passwords?
+
+Yes — malicious extensions can read keystrokes, cookies, and form data to steal passwords.
+
+6. How to update extensions securely?
+
+Enable automatic updates and update only through official browser extension stores.
+
+7. Difference between extensions and plugins?
+
+Extensions: Add extra features to the browser
+
+Plugins: Older technology for media content (mostly discontinued)
+
+8. How to report malicious extensions?
+
+Use the “Report Abuse” option in the extension store and uninstall the extension immediately.
